@@ -6,4 +6,5 @@ A list of people in the TYPO3 Community with sponsoring option
 * [Benni Mack](https://github.com/bmack)
 * [Georg Ringer](https://github.com/georgringer)
 * [Richard Haeser](https://github.com/haassie)
+* [Tim Lochmüller](https://github.com/lochmueller)
 * [Tomas Norre Mikkelsen](https://github.com/tomasnorre)

@@ -14,3 +14,4 @@ A list of people in the TYPO3 Community with sponsoring option
 * [Simon Schaufelberger](https://github.com/simonschaufi)
 * [Tim Lochmüller](https://github.com/lochmueller)
 * [Tomas Norre Mikkelsen](https://github.com/tomasnorre)
+* [Jo Hasenau](https://docs.typo3.org/typo3cms/extensions/gridelements/stable/Chapters/Sponsoring/Index.html)

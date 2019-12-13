@@ -9,5 +9,6 @@ A list of people in the TYPO3 Community with sponsoring option
 * [Georg Ringer](https://github.com/georgringer)
 * [Oliver Eglseder](https://github.com/vertexvaar)
 * [Richard Haeser](https://github.com/haassie)
+* [Simon Schaufelberger](https://github.com/simonschaufi)
 * [Tim Lochmüller](https://github.com/lochmueller)
 * [Tomas Norre Mikkelsen](https://github.com/tomasnorre)

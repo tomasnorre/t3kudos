@@ -15,4 +15,4 @@ A list of people in the TYPO3 Community with sponsoring option
 * Richard Haeser: [GitHub](https://github.com/haassie) | [Buy me a coffee](https://www.buymeacoffee.com/richardhaeser)
 * Simon Schaufelberger: [GitHub](https://github.com/simonschaufi)
 * Tim Lochmüller: [GitHub](https://github.com/lochmueller)
-* Tomas Norre Mikkelsen: [GitHub](https://github.com/tomasnorre) | [Ko-fi](https://ko-fi.com/tomasnorre)
+* Tomas Norre Mikkelsen: [GitHub](https://github.com/tomasnorre) | [Ko-fi](https://ko-fi.com/tomasnorre) | [Paypal](https://www.paypal.me/tomasnorre/20)

@@ -13,6 +13,7 @@ A list of people in the TYPO3 Community with sponsoring option
 * Jo Hasenau: [sponsor via gridelements](https://docs.typo3.org/typo3cms/extensions/gridelements/stable/Chapters/Sponsoring/Index.html)
 * Oliver Eglseder: [GitHub](https://github.com/vertexvaar)
 * Richard Haeser: [GitHub](https://github.com/haassie) | [Buy me a coffee](https://www.buymeacoffee.com/richardhaeser)
+* Sebastian Schreiber [GitHub](https://github.com/sabbelasichon/)
 * Simon Schaufelberger: [GitHub](https://github.com/simonschaufi)
 * Tim Lochmüller: [GitHub](https://github.com/lochmueller)
 * Tomas Norre Mikkelsen: [GitHub](https://github.com/tomasnorre) | [Ko-fi](https://ko-fi.com/tomasnorre) | [Paypal](https://www.paypal.me/tomasnorre/20)

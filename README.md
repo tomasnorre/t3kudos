@@ -11,6 +11,7 @@ A list of people in the TYPO3 Community with sponsoring option
 * Georg Ringer: [GitHub](https://github.com/georgringer) | [Patreon](https://www.patreon.com/georgringer) | [Paypal](https://www.paypal.me/GeorgRinger/25)
 * Helmut Hummel: [GitHub](https://github.com/helhum)
 * Jo Hasenau: [sponsor via gridelements](https://docs.typo3.org/typo3cms/extensions/gridelements/stable/Chapters/Sponsoring/Index.html)
+* Nicole Cordes: [GitHub](https://github.com/IchHabRecht)
 * Oliver Eglseder: [GitHub](https://github.com/vertexvaar)
 * Richard Haeser: [GitHub](https://github.com/haassie) | [Buy me a coffee](https://www.buymeacoffee.com/richardhaeser)
 * Sebastian Fischer [GitHub](https://github.com/sponsors/garbast)
